@@ -9,7 +9,7 @@
 
         <variable
             name="listener"
-            type="kg.nurzhamal.quizapp.ui.adapter.QuestionsAdapter" />
+            type="kg.kurmanjan.quizapp.ui.adapter.QuestionsAdapter" />
 
         <variable
             name="position"
@@ -17,12 +17,12 @@
 
         <variable
             name="holderBoolean"
-            type="kg.nurzhamal.quizapp.ui.adapter.QuestionsAdapter.QuestionsBooleanViewHolder" />
+            type="kg.kurmanjan.quizapp.ui.adapter.QuestionsAdapter" />
 
 
         <variable
             name="questionsForBoolean"
-            type="kg.nurzhamal.quizapp.model.Question" />
+            type="kg.kurmanjan.quizapp.model.Question" />
 
     </data>
 

@@ -5,15 +5,15 @@
 
         <variable
             name="questionAmount"
-            type="kg.nurzhamal.quizapp.QuestionsActivity" />
+            type="kg.kurmanjan.quizapp.QuestionsActivity" />
 
         <variable
             name="quizResult"
-            type="kg.nurzhamal.quizapp.model.QuizResult" />
+            type="kg.kurmanjan.quizapp.model.QuizResult" />
 
         <variable
             name="handlers"
-            type="kg.nurzhamal.quizapp.core.OnPopupMenuClickListener" />
+            type="kg.kurmanjan.quizapp.core.OnPopupMenuClickListener" />
 
     </data>
 <LinearLayout

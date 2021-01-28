@@ -4,11 +4,11 @@
 
         <variable
             name="result"
-            type="kg.nurzhamal.quizapp.model.QuizResult" />
+            type="kg.kurmanjan.quizapp.model.QuizResult" />
 
         <variable
             name="viewModel"
-            type="kg.nurzhamal.quizapp.ResultViewModel" />
+            type="kg.kurmanjan.quizapp.ResultViewModel" />
 
     </data>
 
@@ -17,7 +17,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ResultActivity">
+        tools:context="kg.kurmanjan.quizapp.ResultActivity">
 
         <TextView
             android:id="@+id/textViewResult"

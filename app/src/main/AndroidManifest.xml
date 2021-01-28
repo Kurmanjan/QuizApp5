@@ -5,23 +5,23 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".QuizApp"
+        android:name="kg.kurmanjan.quizapp.QuizApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizApp">
-        <activity android:name=".ResultActivity">
+        <activity android:name="kg.kurmanjan.quizapp.ResultActivity">
 
         </activity>
-        <activity android:name=".QuestionsActivity" />
-        <activity android:name=".SplashActivity" >
+        <activity android:name="kg.kurmanjan.quizapp.QuestionsActivity" />
+        <activity android:name="kg.kurmanjan.quizapp.SplashActivity" >
 
         </activity>
 
 
-        <activity android:name=".MainActivity">
+        <activity android:name="kg.kurmanjan.quizapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

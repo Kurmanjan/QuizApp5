@@ -5,8 +5,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-<kg.nurzhamal.quizapp.MyViewPager
+    tools:context="kg.kurmanjan.quizapp.MainActivity">
+<kg.kurmanjan.quizapp.MyViewPager
     android:id="@+id/main_pager"
     android:layout_width="match_parent"
     android:layout_height="0dp"

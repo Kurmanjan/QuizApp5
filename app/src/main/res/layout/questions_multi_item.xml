@@ -10,11 +10,11 @@
 
         <variable
             name="listener"
-            type="kg.nurzhamal.quizapp.ui.adapter.QuestionsAdapter" />
+            type="kg.kurmanjan.quizapp.ui.adapter.QuestionsAdapter" />
 
         <variable
             name="questions"
-            type="kg.nurzhamal.quizapp.model.Question" />
+            type="kg.kurmanjan.quizapp.model.Question" />
 
         <variable
             name="position"
@@ -22,7 +22,7 @@
 
         <variable
             name="holderMulti"
-            type="kg.nurzhamal.quizapp.ui.adapter.QuestionsAdapter" />
+            type="kg.kurmanjan.quizapp.ui.adapter.QuestionsAdapter" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
